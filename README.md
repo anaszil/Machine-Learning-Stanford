@@ -16,3 +16,5 @@ This is my solution to all the programming assignments of Machine-Learning (Cour
 
 ## References
 [[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+
+ - Get in touch anas.zilali@ecl19.ec-lyon.fr
